@@ -1,0 +1,24 @@
+# Credentials and machine-local settings
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.keystore
+*.jks
+local.properties
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+*.log
+
+# Project output
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
