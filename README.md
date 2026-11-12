@@ -24,3 +24,7 @@ python test_keys.py
 ## Tests and verification
 
 Use `python -m py_compile test_keys.py test_opencode_zen.py` to check both scripts without credentials or network requests. Use `--list-only` with your own Zen credentials to verify model discovery without making a chat request.
+
+## License
+
+The project code is available under the [MIT License](LICENSE).
